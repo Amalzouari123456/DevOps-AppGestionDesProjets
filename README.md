@@ -227,3 +227,7 @@ pipeline {
 ## 👤 Auteur
 
 **ESPRIT — UP ASI**  
+
+## CI Jenkins
+
+Pipeline Jenkins (backend) : déclenché automatiquement à chaque push via webhook GitHub.
